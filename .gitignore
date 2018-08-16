@@ -1,6 +1,11 @@
-npm-debug.log
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 node_modules/
-.vscode
-.DS_Store
-**/.DS_Store
-yarn.lock
+bin/
+obj/
+.vs/
